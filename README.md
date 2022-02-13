@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Diving deep in Next.js and sharping Python skillset.**
 
-- 👨‍💻 All of my projects are available at [myleslister.com](https://myleslister.com/)
+- 👨‍💻 All of my projects will be available at [myleslister.com](https://myleslister.com/)
 
 - 💬 Ask me about **React, Next.js, Python, Django**
 
