@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myles Lister</h1>
-<h3 align="center">A new graduate seeking my first developer job!</h3>
+<h3 align="center">Full-time Jr DevOps Engineer </h3>
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="480" height="251" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=listerm6&label=Profile%20views&color=0e75b6&style=flat" alt="listerm6" /> </p>
